@@ -978,7 +978,10 @@ export default [
     name: "Thermionic Culture Vulture(1)",
     releaseDate: "",
     mono: "63.1%",
-    stereo: "71.2%"
+    stereo: "71.2%",
+    specialMessages: [
+      "When used with Apollo Twin SOLO, Thermionic Culture Vulture cannot be loaded on stereo tracks in a DAW at sample rates of 88.2, 96, or 192 kHz if Console's Input Delay Compensation is enabled. If Console's Input Delay Compensation is disabled, the limitation exists at 96 kHz only."
+    ]
   },
   {
     name: "Tonelux Tilt EQ",

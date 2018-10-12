@@ -5,9 +5,10 @@ export default [
     stereo: "3.4%"
   },
   {
-    name: "4K Channel Strip *",
+    name: "4K Channel Strip",
     mono: "7.4%",
-    stereo: "11.4%"
+    stereo: "11.4%",
+    dspSavings: true
   },
   {
     name: "A/DA Flanger",
@@ -80,9 +81,10 @@ export default [
     stereo: "15.5%"
   },
   {
-    name: "API Vision Channel Strip *",
+    name: "API Vision Channel Strip",
     mono: "22.4%",
-    stereo: "29.7%"
+    stereo: "29.7%",
+    dspSavings: true
   },
   {
     name: "Bermuda Triangle",
@@ -145,14 +147,16 @@ export default [
     stereo: "15.1%"
   },
   {
-    name: "Cambridge EQ *",
+    name: "Cambridge EQ",
     mono: "2.2%",
-    stereo: "3.3%"
+    stereo: "3.3%",
+    dspSavings: true
   },
   {
-    name: "Century Tube Channel Strip *",
+    name: "Century Tube Channel Strip",
     mono: "29.7%",
-    stereo: "52.7%"
+    stereo: "52.7%",
+    dspSavings: true
   },
   {
     name: "Chandler Limited Curve Bender",
@@ -175,9 +179,10 @@ export default [
     stereo: "4.9%"
   },
   {
-    name: "CS-1 Channel Strip *",
+    name: "CS-1 Channel Strip",
     mono: "6.0%",
-    stereo: "6.4%"
+    stereo: "6.4%",
+    dspSavings: true
   },
   {
     name: "Dangerous BAX EQ Master",
@@ -215,9 +220,10 @@ export default [
     stereo: "49.8%"
   },
   {
-    name: "Empirical Labs EL7 FATSO Jr/Sr *",
+    name: "Empirical Labs EL7 FATSO Jr/Sr",
     mono: "25.6%",
-    stereo: "40.5%"
+    stereo: "40.5%",
+    dspSavings: true
   },
   {
     name: "Empirical Labs EL8 Distressor",
@@ -320,9 +326,10 @@ export default [
     stereo: "37.1%"
   },
   {
-    name: "Galaxy Tape Echo *",
+    name: "Galaxy Tape Echo",
     mono: "13.3%",
-    stereo: "13.8%"
+    stereo: "13.8%",
+    dspSavings: true
   },
   {
     name: "Gallien-Krueger 800RB Bass Amplifier",
@@ -345,9 +352,10 @@ export default [
     stereo: "6.8%"
   },
   {
-    name: "Helios Type 69 Preamp & EQ *",
+    name: "Helios Type 69 Preamp & EQ",
     mono: "42.4%",
-    stereo: "72.2%"
+    stereo: "72.2%",
+    dspSavings: true
   },
   {
     name: "Ibanez Tube Screamer TS808",
@@ -395,9 +403,10 @@ export default [
     stereo: "25.0%"
   },
   {
-    name: "Manley VOXBOX Channel Strip *",
+    name: "Manley VOXBOX Channel Strip",
     mono: "46.0%",
-    stereo: "56.0%"
+    stereo: "56.0%",
+    dspSavings: true
   },
   {
     name: "Marshall Bluesbreaker 1962",
@@ -460,9 +469,10 @@ export default [
     stereo: "16.4%"
   },
   {
-    name: "Neve 1073 *",
+    name: "Neve 1073",
     mono: "40.1%",
-    stereo: "67.6%"
+    stereo: "67.6%",
+    dspSavings: true
   },
   {
     name: "Neve 1073 EQ Legacy",
@@ -505,14 +515,16 @@ export default [
     stereo: "4.3%"
   },
   {
-    name: "Neve 88RS Channel Strip *",
+    name: "Neve 88RS Channel Strip",
     mono: "38.3%",
-    stereo: "44.2%"
+    stereo: "44.2%",
+    dspSavings: true
   },
   {
-    name: "Neve 88RS Channel Strip Legacy *",
+    name: "Neve 88RS Channel Strip Legacy",
     mono: "3.2%",
-    stereo: "4.5%"
+    stereo: "4.5%",
+    dspSavings: true
   },
   {
     name: "Neve Preamp",
@@ -550,14 +562,16 @@ export default [
     stereo: "3.4%"
   },
   {
-    name: "Precision Channel Strip *",
+    name: "Precision Channel Strip",
     mono: "2.8%",
-    stereo: "3.2%"
+    stereo: "3.2%",
+    dspSavings: true
   },
   {
-    name: "Precision De-Esser *",
+    name: "Precision De-Esser",
     mono: "2.6%",
-    stereo: "4.3%"
+    stereo: "4.3%",
+    dspSavings: true
   },
   {
     name: "Precision Delay Mod / Delay Mod L",
@@ -575,9 +589,10 @@ export default [
     stereo: "1.9%"
   },
   {
-    name: "Precision Equalizer *",
+    name: "Precision Equalizer",
     mono: "4.0%",
-    stereo: "6.8%"
+    stereo: "6.8%",
+    dspSavings: true
   },
   {
     name: "Precision K-Stereo",
@@ -590,14 +605,16 @@ export default [
     stereo: "3.3%"
   },
   {
-    name: "Precision Maximizer *",
+    name: "Precision Maximizer",
     mono: "7.6%",
-    stereo: "14.1%"
+    stereo: "14.1%",
+    dspSavings: true
   },
   {
-    name: "Precision Multiband *",
+    name: "Precision Multiband",
     mono: "11.9%",
-    stereo: "18.8%"
+    stereo: "18.8%",
+    dspSavings: true
   },
   {
     name: "Precision Reflection Engine",
@@ -625,9 +642,10 @@ export default [
     stereo: "6.2%"
   },
   {
-    name: "Pultec-Pro Legacy *",
+    name: "Pultec-Pro Legacy",
     mono: "4.4%",
-    stereo: "7.6%"
+    stereo: "7.6%",
+    dspSavings: true
   },
   {
     name: "Pure Plate",
@@ -655,9 +673,10 @@ export default [
     stereo: "3.3%"
   },
   {
-    name: "Roland RE-201 Tape Echo *",
+    name: "Roland RE-201 Tape Echo",
     mono: "13.3%",
-    stereo: "13.8%"
+    stereo: "13.8%",
+    dspSavings: true
   },
   {
     name: "Shadow Hills Mastering Compressor",
@@ -735,14 +754,16 @@ export default [
     stereo: "7.0%"
   },
   {
-    name: "SSL E Series Channel Strip *",
+    name: "SSL E Series Channel Strip",
     mono: "41.8%",
-    stereo: "70.1%"
+    stereo: "70.1%",
+    dspSavings: true
   },
   {
-    name: "SSL E Channel Strip Legacy *",
+    name: "SSL E Channel Strip Legacy",
     mono: "7.4%",
-    stereo: "11.9%"
+    stereo: "11.9%",
+    dspSavings: true
   },
   {
     name: "SSL G Bus Compressor",
